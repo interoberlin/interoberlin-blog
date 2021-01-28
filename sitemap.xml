@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://interoberlin.github.io/interoberlin-blog/categories/</loc>
+    <loc>https://interoberlin.github.io/interoberlin-blog/</loc>
+    <lastmod>2017-01-13T20:33:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://interoberlin.github.io/interoberlin-blog/</loc>
+    <loc>https://interoberlin.github.io/interoberlin-blog/posts/licht-aus-leds-an/</loc>
+    <lastmod>2017-01-13T20:33:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://interoberlin.github.io/interoberlin-blog/posts/</loc>
+    <lastmod>2017-01-13T20:33:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://interoberlin.github.io/interoberlin-blog/categories/</loc>
   </url>
   
   <url>

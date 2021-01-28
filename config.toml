@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Interoberlin"
 theme = "ananke"
+
+staticDir = ["static"]

@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "hugo-theme-codex"]
+	path = themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "hugo-theme-novela"]
+	path = themes/hugo-theme-novela
+	url = https://github.com/forestryio/hugo-theme-novela.git

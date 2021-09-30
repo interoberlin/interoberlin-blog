@@ -1,6 +1,19 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Interoberlin"
-theme = "ananke"
 
 staticDir = ["static"]
+
+
+
+
+# Novela settings
+theme = "hugo-theme-interoberlin"
+paginate = 6
+[social]
+twitter= "https://twitter.com/interoberlin"
+github= "https://github.com/interoberlin"
+youtube = "https://www.youtube.com/channel/UC4YAFkQF99o2M1oIup5Nl_w"
+
+[taxonomies]
+author = "authors"
